@@ -1,0 +1,26 @@
+body {
+  background-color: #e0e0e0;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #bfbfbf;
+  box-shadow: 5px 5px 5px #aaaaaa;
+  border-radius: 4px;
+  width: 800px;
+  height: 830px;
+}
+.game-header {
+  display: flex;
+  flex-direction: row;
+  background-color: gray;
+  color: white;
+  height: 30px;
+  width: auto;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+.score {
+  font-weight: 700;
+}

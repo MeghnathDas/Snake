@@ -6,7 +6,7 @@
 - HTML and CSS 
 - GitHub Hosting
 
-Hosted URL -> [https://meghnathdas.github.io/](https://meghnathdas.github.io/)
+Hosted URL -> [https://meghnathdas.github.io/Snake/](https://meghnathdas.github.io/Snake/)
 
 # Editor
 

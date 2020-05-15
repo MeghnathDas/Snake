@@ -1,4 +1,5 @@
-# Snake - Prototype of popular Snake game
+# Snake
+Prototype of popular Snake game
 ###### Author: Meghnath Das
 
 ### Technologies Used
